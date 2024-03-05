@@ -1,0 +1,30 @@
+.div1{
+    background-color: #ff7f00; 
+    height: 500px; 
+    width: 500px;
+}
+.div1Child{
+    background-color: greenyellow; 
+    height: 50%; 
+    width: 50%;
+}
+
+p{
+    color: white; 
+    background-color: rebeccapurple; 
+    font-size: 25px; 
+    font-family: Times; 
+    font-weight: lighter;
+}
+
+.div2{
+    width: 50%; 
+    height: 50vh; 
+    background-color: burlywood;
+}
+
+.div2Child{
+    width: 75vw; 
+    height: 50%; 
+    background-color: rgb(150, 98, 170);
+}
